@@ -45,9 +45,9 @@ Our engineers use AI agents to handle the tedious parts, such as trawling logs, 
 |---|---|
 | [`kubernetes-best-practices`](https://github.com/Agency-42/kubernetes-best-practices) | Example manifests and checklists for Kubernetes, OpenShift and RKE2, starting with NetworkPolicies that don't break DNS. Work in progress, growing every week. |
 | [`devops-templates`](https://github.com/Agency-42/devops-templates) | Starter templates for CI/CD, Terraform and containers. It's a work in progress, and we're expanding it. |
-| **`dont-panic`** *(coming soon)* | Our flagship **Kubernetes troubleshooting field guide**: symptom → diagnosis → fix, written by people who've been paged. |
+| [**`dont-panic`**](https://github.com/Agency-42/dont-panic) | Our flagship **Kubernetes troubleshooting field guide**: symptom → diagnosis → fix, written by people who've been paged. |
 
-### Coming soon: `dont-panic`
+### Now live: [`dont-panic`](https://github.com/Agency-42/dont-panic)
 
 > *"A Kubernetes cluster is mostly harmless. Mostly."*
 
